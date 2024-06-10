@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Python Open Source**
 
-- 👨‍💻 All of my projects are available at [https://github.com/m-asif-ansari](https://github.com/m-asif-ansari)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/m-asif-ansari?tab=repositories)
 
 - 💬 Ask me about **Python Programming**
 
